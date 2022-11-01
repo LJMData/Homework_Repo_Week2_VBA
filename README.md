@@ -9,3 +9,5 @@ The yearly change is divided by the opening price for the year to give the perce
 The volume of stocks which are sold on each date is added up and placed into the row matching the ticker symbol. 
 
 The code then runs through the calculated data and pulls out the information for the Greatest % increase, the greatest % decrease and the greatest total volume. 
+
+The Code repeats these actions for each tab in the workbook
